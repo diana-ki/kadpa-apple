@@ -57,4 +57,6 @@ img:hover {
 	/*background-color: #f2f97e;*/
 	background-position: center;
 	text-align: center;
+	padding-left: 5em;
+	padding-right: 5em;
 }
