@@ -1,0 +1,60 @@
+body {
+	font-family: 'Acme', sans-serif;
+	background-color: #C2D05F;
+} 
+#header {
+	text-align: center;
+}
+h1, h2 {
+	color: #16603C;
+	text-shadow: 2px 2px #8db600;
+	font-size: 3rem;
+}
+
+p {
+	color: #503C2B;
+	font-size: 1.2em;
+}
+
+.hello: first-letter {
+	color: red;
+	font-size: 100px;
+}
+
+h2:hover {
+	background-color: #d2eb34;
+}
+
+label {
+	margin-left: 50px
+}
+
+img {
+  border-padding: 2px;
+  border-radius: 4px;
+  border-width: 8px; /* Gray border */
+  display: block;
+  margin: 0 auto;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.image {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+#form{
+	width: 100%;
+	background-color: white;
+	border-radius: 6px;
+
+}
+
+.jumbotron{
+	/*background-color: #f2f97e;*/
+	background-position: center;
+	text-align: center;
+}
